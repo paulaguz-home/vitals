@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <script src="https://use.fontawesome.com/cf619cff0c.js"></script>
+    <script src="vitals.js"></script>
+	  <link href="vitals.css" rel="Stylesheet" type="text/css" />
+
+<script>
+
+
+
+</script>
+
+</head>
+
+<body onload="loadJSON()">
+
+<div id="mainPageContainer">
+	<div id="searchContainer">
+      <label class="searchIcon">
+		    <input type="text">
+      </label>
+	</div>
+
+<div id="contentContainers">
+	<div id="profileContainer">
+    <div id="profilePhoto">
+        <img id="profileImgSrc" class="profileImg" src=""/>
+    </div>
+    <div class="profileName" id="name"></div>
+    <div class="profileSpecialty" id="specialty"></div>
+    <div class="profileRating" id="rating">
+      <div id="stars" class="FourStar"></div>
+    </div>
+    <div id="reviewsButton">
+        <input type="button" class="button type-small" value="READ REVIEWS" onclick="javascript:changeContent('rev');"/>
+    </div>
+    <div id="directionsButton">
+        <input type="button" class="button type-small" value="GET DIRECTIONS" onclick="javascript:changeContent('dir');"/>
+    </div>
+    <hr class="profileHR"/>
+      <div class="profileLocationContainer">
+        <div class="fa fa-map-marker locationIcon"></div>
+        <div class="profileText profileLocation" id="city_state"></div>
+      </div>
+      <div class="profileLocationContainer">
+        <div class="fa fa-phone locationIcon"></div>
+        <div class="profileText profileLocation" id="phone"></div>
+      </div>
+      <div class="profileLocationContainer">
+        <div class="fa fa-graduation-cap locationIcon"></div>
+        <div class="profileText profileLocation" id="school"></div>
+      </div>
+	</div>
+
+  <div id="mainContentContainer">
+
+    <div id="linksContainer">
+        <div class="navLink selectedLink" id="navSum">
+          <a href="javascript:changeContent('sum');">Summary</a>
+        </div>
+        <div class="navLink" id="navDir">
+          <a href="javascript:changeContent('dir');">Location & Directions</a>
+        </div>
+        <div class="navLink" id="navRev">
+          <a href="javascript:changeContent('rev');">Ratings & Reviews</a>
+        </div>
+    </div>
+
+    <div id="summaryContentContainer">
+          <div class="profileName alignLeft" id="summaryPageName"></div>
+          <div id="summaryPageContent" class="alignLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+    </div>
+
+    <div id="directionsContentContainer">
+    </div>
+
+    <div id="reviewsContentContainer">
+      <div class="profileName">Overall Rating</div>
+      <div id="reviewPageStarsContainer alignLeft">
+
+        <div class="profileRating" id="reviewsPageRating">
+          <div id="starsReviewsPage" class="FourStar"> </div>&nbsp;
+          <div id="numberofstarsReviewPage" class="table-cell"></div>&nbsp;
+          <div class="table-cell"> out of 5 with </div>&nbsp;
+          <div id="ratingcountReviewPage" class="table-cell"> </div>&nbsp;
+          <div class="table-cell"> ratings</div>
+        </div>
+
+      </div>
+    </div>
+
+    </div>
+
+</div>
+
+  <div id="adContainer">
+  </div>
+</div>
+</body>
+</html>

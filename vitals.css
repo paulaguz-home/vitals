@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/specimen/Roboto');
+
+/*** Color ***/
+.primary{ color: #489CFE; }
+.primary:hover{ color: #277DE2;}
+
+.secondary{ color: #84C938; }
+.secondary:hover{ color: #73A739; }
+
+.backgroundcolor{ color: #FA; }
+/***/
+
+/*** Text ***/
+.type-small{ font-size: 16px; }
+.type-medium{ font-size: 20px;}
+.type-large{ font-size: 24px;}
+.type-xlarge{ font-size: 32px;}
+/***/
+
+/*** Search ***/
+.searchIcon {
+  position: relative;
+}
+.searchIcon::after {
+  font-family: "FontAwesome";
+  font-size: 12px;
+	color: #B7C2D0;
+  content: "\f002";
+  position: absolute;
+  right: 20px;
+  top: 3px;
+}
+
+#searchContainer{
+	background-color: #489CFE;
+	text-align: right;
+}
+
+#searchContainer input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	width: 225px;
+}
+/***/
+
+/*** Profile ***/
+#profileContainer {
+    border: 2px;
+    border-color: #B7C2D0;
+    width: 300px;
+    border-style: solid;
+    margin-top: 40px;
+    text-align: center;
+    float: left;
+}
+
+.profileImg{
+    border-radius: 50%;
+    width: 100px;
+    background-color: #B7C2D0;
+    text-align: center;
+    margin-top: -30px;
+}
+
+.profileName{
+  color: #414E5D;
+  font-size: 20px;
+  font: Roboto;
+}
+
+.alignLeft{ text-align: left; }
+
+.profileSpecialty{
+  color: #657385;
+  font-size: 16px;
+  font: Roboto;
+}
+
+.profileRating{
+  margin-top: 10px;
+  color: #657385;
+  font-size: 16px;
+  font: Roboto;
+}
+
+#stars{
+    height: 50px;
+    display:block;
+    background-repeat: no-repeat;
+    background-image:url(GreenStarRatings.jpg);
+    margin-left: 100px;
+}
+
+.FiveStar {
+  width: 200px;
+}
+
+.FourStar {
+  width: 105px;
+}
+
+.ThreeStar {
+  width: 80px;
+}
+
+.TwoStar {
+  width: 60px;
+}
+
+.OneStar {
+  width: 35px;
+}
+
+.NoStar {
+  width: 10px;
+}
+
+.profileHR {
+  width: 250px;
+  color: #657385;
+  margin-bottom: 30px;
+}
+/***/
+
+.button{
+  width: 200px;
+  padding: 5px;
+  color: #FFF;
+  background-color: #489CFE;
+  margin-bottom: 10px;
+}
+
+.button:hover{ background-color: #277DE2; }
+
+.profileText{
+  color: #657385;
+  font: Roboto;
+  size: 16px;
+}
+.profileLocationContainer{
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+
+.profileLocationContainer:last-child{
+  margin-bottom: 50px;
+}
+
+.profileLocation{
+    text-align: left;
+    margin-left: 50px;
+}
+
+.locationIcon{
+  float: left;
+  margin-right: 25px;
+}
+
+#adContainer {
+    border: 2px;
+    border-color: #B7C2D0;
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #657385;
+    display: inline-block;
+}
+
+#contentContainers{ display: block; }
+
+@media screen and (min-width: 400px) {
+  #adContainer{
+      display: block;
+  }
+  #contentContainers{
+    display: flex;
+  }
+}
+
+#mainContentContainer {
+    border: 2px;
+    border-color: #B7C2D0;
+    border-style: solid;
+    margin-top: 40px;
+    text-align: center;
+    float: left;
+    flex: 1;
+    margin-left: 10px;
+}
+
+#linksContainer{
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    clear: both;
+}
+
+.navLink a{
+  color: #489CFE;
+  size: 16px;
+  text-decoration: none;
+  float: left;
+  margin-right: 20px;
+}
+
+.navLink a:hover{ color: #277DE2; text-decoration: underline;}
+
+.selectedLink a{ color: #277DE2; text-decoration: underline;}
+
+#summaryContentContainer{
+  float: left;
+  clear: left;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: inline-block;
+}
+
+#summaryPageName{
+    margin-bottom: 10px;
+}
+
+#summaryPageContent{
+  color: #414E5D;
+  font-size: 16px;
+  font: Roboto;
+}
+
+#directionsContentContainer{
+  float: left;
+  clear: left;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: none;
+}
+
+#reviewsContentContainer{
+  float: left;
+  clear: left;
+  margin-top: 30px;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: none;
+  text-align: left;
+}
+
+#reviewsPageRating{
+  display: table;
+  color: #414E5D;
+  font-size: 16px;
+  font: Roboto;
+}
+
+.table-cell{ display: table-cell; }
+
+.locationRecordContainer{
+}
+
+.mapPlaceHolder {
+    border: 2px;
+    border-color: #B7C2D0;
+    width: 200px;
+    height: 150px;
+    border-style: solid;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #657385;
+    float: left;
+}
+
+.locationAddressContainer{
+  text-align: left;
+  float: left;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.locationAddressCompanyName{
+  color: #414E5D;
+  font-size: 16px;
+  font: Roboto;
+  margin-bottom: 25px;
+}
+
+.locationAddress{
+  color: #414E5D;
+  font-size: 16px;
+  font: Roboto;
+}

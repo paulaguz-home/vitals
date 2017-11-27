@@ -1,0 +1,907 @@
+[
+  {
+    "objectID": "1r6y8d_doctor",
+    "url": "/doctors/1r6y8d/elizabeth-garcia",
+    "type": "doctor",
+    "display_type": "Doctor",
+    "vend_dates": [
+      "2017-08-11"
+    ],
+    "vpid": "1r6y8d",
+    "facility_vpid": "3mx7nq",
+    "city_state": "Corpus Christi, TX",
+    "company_name": "DRISCOLL CHILDRENS HOSPITAL",
+    "company_aka_names": "DRISCOLL CHILDRENS HOSPITAL",
+    "has_displayable_professional_companyname": "true",
+    "facility_slugs": "uchc_qn7xm3-driscoll-childrens-hospital|vitals_3mx7nq-driscoll-childrens-hospital-corpus-christi",
+    "npi": "1598144735",
+    "first": "Elizabeth",
+    "last": "Garcia",
+    "prefix": "Dr.",
+    "degrees": "MD",
+    "professional_aka_names": "Elizabeth Garcia",
+    "provider_type_codes": "MD",
+    "specialties": [
+      "Residency"
+    ],
+    "gender": "F",
+    "status": "active",
+    "suppress_review_write": false,
+    "yext_status": "available",
+    "created": "2017-08-08 19:31:02",
+    "modified": "2017-08-10 15:25:01",
+    "data_delivery_date": "2017-08-11",
+    "types": [
+      "doctor"
+    ],
+    "display_name": "Dr. Elizabeth Garcia",
+    "also_known_as": [
+      "Elizabeth Garcia"
+    ],
+    "degree": "MD",
+    "locations": [
+      {
+        "address_id": "78411172133",
+        "name": "DRISCOLL CHILDRENS HOSPITAL",
+        "address1": "3533 S Alameda St",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "state_name": "Texas",
+        "zip": "78411",
+        "phone": "3616945000",
+        "primary_location": true,
+        "address_accuracy": "EXACT",
+        "address_neighborhood": "Bay Area",
+        "facility_vpid": "3mx7nq",
+        "display_company_name": true,
+        "usps_city": "Corpus Christi",
+        "usps_state": "TX",
+        "_geoloc": {
+          "lat": "27.74854000",
+          "lng": "-97.38626000"
+        },
+        "geoloc": "27.74854000,-97.38626000",
+        "google_verified": true,
+        "google_city_state": "Corpus Christi, TX",
+        "facility_slug": "3mx7nq-driscoll-childrens-hospital-corpus-christi"
+      }
+    ],
+    "primary_specialty": "Residency",
+    "education": {
+      "residency": {
+        "name": "Driscoll Childrens Hospital"
+      }
+    },
+    "ratings_per_star": {
+      "1": {
+        "total": 0,
+        "percentage": 0
+      },
+      "2": {
+        "total": 0,
+        "percentage": 0
+      },
+      "3": {
+        "total": 0,
+        "percentage": 0
+      },
+      "4": {
+        "total": 0,
+        "percentage": 0
+      },
+      "5": {
+        "total": 0,
+        "percentage": 0
+      }
+    },
+    "city_states": [
+      "Corpus Christi, TX"
+    ],
+    "verified_city_states": [
+      "Corpus Christi, TX"
+    ],
+    "primary_city_state": "Corpus Christi, TX",
+    "legacy": false,
+    "predicateToken": "1r6y8d",
+    "slug": "1r6y8d/elizabeth-garcia",
+    "canonical": "/doctors/1r6y8d/elizabeth-garcia",
+    "lower_case_slug": "1r6y8d/elizabeth-garcia",
+    "_geoloc": [
+      {
+        "lat": "27.74854000",
+        "lng": "-97.38626000"
+      }
+    ],
+    "time_stamp": "2017/09/11 21:13:11",
+    "entity_type": "professional",
+    "search_specialties": [
+      "Residency"
+    ],
+    "nearby_providers": [
+      {
+        "vpid": "1r0ck2",
+        "display_name": "Dr. Gerson Valencia Villeda",
+        "url": "/doctors/Dr_Gerson_Valencia_Villeda.html",
+        "specialty": [
+          "Pediatric Cardiology",
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 1,
+        "objectID": "1r0ck2_doctor_78411172133",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "1sxx6z",
+        "display_name": "Dr. Sabrina Rose Sargado",
+        "url": "/doctors/Dr_Sabrina_Rose_Sargado.html",
+        "specialty": [
+          "Pediatrics",
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "overall_rating": 3,
+        "number_of_ratings": 2,
+        "objectID": "1sxx6z_doctor_78411172133",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "zw2pnw",
+        "display_name": "Dr. Maria Katrina Visenio",
+        "url": "/doctors/Dr_Maria_Katrina_Visenio.html",
+        "specialty": [
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Corpus Christi",
+        "state": "TX",
+        "overall_rating": 2.875,
+        "number_of_ratings": 8,
+        "objectID": "zw2pnw_doctor_78411172133",
+        "distance": "0.00"
+      }
+    ],
+    "total_nearby_providers": 3,
+    "total_hospitals": 0,
+    "total_languages": 0,
+    "total_locations": 1,
+    "total_expertise": 0,
+    "total_specialties": 1
+  },
+  {
+    "objectID": "1wbqjh_doctor",
+    "url": "/doctors/1wbqjh/roma-patel",
+    "type": "doctor",
+    "display_type": "Doctor",
+    "vend_dates": [
+      "2017-08-11"
+    ],
+    "vpid": "1wbqjh",
+    "facility_vpid": "3njnzk",
+    "city_state": "Dallas, TX",
+    "company_name": "North Dallas Pathology",
+    "company_aka_names": "North Dallas Pathology",
+    "has_displayable_professional_companyname": "true",
+    "facility_slugs": "uchc_kznjn3-north-dallas-pathology|vitals_3njnzk-north-dallas-pathology-dallas",
+    "npi": "1740523406",
+    "first": "Roma",
+    "last": "Patel",
+    "prefix": "Dr.",
+    "degrees": "MD",
+    "professional_aka_names": "Roma Patel",
+    "provider_type_codes": "MD",
+    "specialties": [
+      "Internal Medicine"
+    ],
+    "gender": "F",
+    "status": "active",
+    "suppress_review_write": false,
+    "yext_status": "available",
+    "created": "2017-08-08 19:31:02",
+    "modified": "2017-08-10 15:25:01",
+    "data_delivery_date": "2017-08-11",
+    "types": [
+      "doctor"
+    ],
+    "display_name": "Dr. Roma Patel",
+    "also_known_as": [
+      "Roma Patel"
+    ],
+    "degree": "MD",
+    "locations": [
+      {
+        "address_id": "75231442699",
+        "name": "North Dallas Pathology",
+        "address1": "8200 Walnut Hill Ln",
+        "city": "Dallas",
+        "state": "TX",
+        "state_name": "Texas",
+        "zip": "75231",
+        "phone": "2143457280",
+        "primary_location": true,
+        "address_accuracy": "EXACT",
+        "address_neighborhood": "Vickery",
+        "facility_vpid": "3njnzk",
+        "display_company_name": true,
+        "usps_city": "Dallas",
+        "usps_state": "TX",
+        "_geoloc": {
+          "lat": "32.87991000",
+          "lng": "-96.76282200"
+        },
+        "geoloc": "32.87991000,-96.76282200",
+        "google_verified": true,
+        "google_city_state": "Dallas, TX",
+        "facility_slug": "3njnzk-north-dallas-pathology-dallas"
+      }
+    ],
+    "primary_specialty": "Internal Medicine",
+    "education": {
+      "residency": {
+        "name": "Presbyterian Hosp Of Dallas"
+      }
+    },
+    "ratings_per_star": {
+      "1": {
+        "total": 0,
+        "percentage": 0
+      },
+      "2": {
+        "total": 0,
+        "percentage": 0
+      },
+      "3": {
+        "total": 0,
+        "percentage": 0
+      },
+      "4": {
+        "total": 0,
+        "percentage": 0
+      },
+      "5": {
+        "total": 0,
+        "percentage": 0
+      }
+    },
+    "city_states": [
+      "Dallas, TX"
+    ],
+    "verified_city_states": [
+      "Dallas, TX"
+    ],
+    "primary_city_state": "Dallas, TX",
+    "legacy": false,
+    "predicateToken": "1wbqjh",
+    "expertise": [
+      "Check-up",
+      "Heartburn",
+      "Immunization",
+      "Physical",
+      "Vaccination",
+      "Weight Loss",
+      "Weight Loss (non-surgical)"
+    ],
+    "slug": "1wbqjh/roma-patel",
+    "canonical": "/doctors/1wbqjh/roma-patel",
+    "lower_case_slug": "1wbqjh/roma-patel",
+    "_geoloc": [
+      {
+        "lat": "32.87991000",
+        "lng": "-96.76282200"
+      }
+    ],
+    "time_stamp": "2017/09/11 21:13:16",
+    "entity_type": "professional",
+    "search_specialties": [
+      "Internal Medicine",
+      "Primary Care"
+    ],
+    "nearby_providers": [
+      {
+        "vpid": "1r7gqs",
+        "display_name": "Dr. Minal Barve",
+        "years_experience": "24",
+        "url": "/doctors/Dr_Minal_Barve.html",
+        "specialty": [
+          "Medical Oncology",
+          "Internal Medicine"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Dallas",
+        "state": "TX",
+        "overall_rating": 4.0512820512821,
+        "number_of_ratings": 13,
+        "objectID": "1r7gqs_doctor_75231440375",
+        "photo": "professionals/1487117/Dr_Minal_Barve.jpg",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "zz811b",
+        "display_name": "Dr. Shinjita Das",
+        "years_experience": "2",
+        "url": "/doctors/Dr_Shinjita_Das.html",
+        "specialty": [
+          "Internal Medicine"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Dallas",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 2,
+        "objectID": "zz811b_doctor_75231442699",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "1zsb01",
+        "display_name": "Dr. Natalia Palacio",
+        "years_experience": "10",
+        "url": "/doctors/Dr_Natalia_Palacio.html",
+        "specialty": [
+          "Internal Medicine"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Dallas",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 1,
+        "objectID": "1zsb01_doctor_75231442699",
+        "distance": "0.00"
+      }
+    ],
+    "total_nearby_providers": 3,
+    "total_hospitals": 0,
+    "total_languages": 0,
+    "total_locations": 1,
+    "total_expertise": 7,
+    "total_specialties": 1
+  },
+  {
+    "objectID": "1rg1hq_dentist",
+    "url": "/dentists/1rg1hq/dennis-care",
+    "type": "dentist",
+    "display_type": "Dentist",
+    "vend_dates": [
+      "2017-09-01"
+    ],
+    "vpid": "1rg1hq",
+    "facility_vpid": "3gzycm",
+    "city_state": "El Paso, TX",
+    "company_name": "Ronald W Care DDS Inc",
+    "company_aka_names": "Ronald W Care DDS Inc",
+    "has_displayable_professional_companyname": "true",
+    "facility_slugs": "uchc_mcyzg3-ronald-w-care-dds-inc|vitals_3gzycm-ronald-w-care-dds-inc-el-paso",
+    "npi": "1578086625",
+    "first": "Dennis",
+    "middle": "Warren",
+    "last": "Care",
+    "prefix": "Dr.",
+    "degrees": "DDS",
+    "professional_aka_names": "Dennis Warren Care",
+    "provider_type_codes": "DEN",
+    "specialties": [
+      "General Dentistry"
+    ],
+    "gender": "M",
+    "status": "active",
+    "suppress_review_write": false,
+    "yext_status": "available",
+    "created": "2017-08-29 19:31:15",
+    "modified": "2017-08-31 10:15:51",
+    "data_delivery_date": "2017-09-01",
+    "types": [
+      "dentist"
+    ],
+    "display_name": "Dr. Dennis Care",
+    "also_known_as": [
+      "Dennis Warren Care"
+    ],
+    "degree": "DDS",
+    "locations": [
+      {
+        "address_id": "79924440409",
+        "name": "Ronald W Care DDS Inc",
+        "address1": "9909 Kenworthy St",
+        "city": "El Paso",
+        "state": "TX",
+        "state_name": "Texas",
+        "zip": "79924",
+        "phone": "9157557639",
+        "primary_location": true,
+        "address_accuracy": "EXACT",
+        "address_neighborhood": "Notheast El Paso",
+        "facility_vpid": "3gzycm",
+        "display_company_name": true,
+        "usps_city": "El Paso",
+        "usps_state": "TX",
+        "_geoloc": {
+          "lat": "31.89529500",
+          "lng": "-106.43369900"
+        },
+        "geoloc": "31.89529500,-106.43369900",
+        "google_verified": true,
+        "google_city_state": "El Paso, TX",
+        "facility_slug": "3gzycm-ronald-w-care-dds-inc-el-paso"
+      }
+    ],
+    "primary_specialty": "General Dentistry",
+    "ratings_per_star": {
+      "1": {
+        "total": 0,
+        "percentage": 0
+      },
+      "2": {
+        "total": 0,
+        "percentage": 0
+      },
+      "3": {
+        "total": 0,
+        "percentage": 0
+      },
+      "4": {
+        "total": 0,
+        "percentage": 0
+      },
+      "5": {
+        "total": 0,
+        "percentage": 0
+      }
+    },
+    "city_states": [
+      "El Paso, TX"
+    ],
+    "verified_city_states": [
+      "El Paso, TX"
+    ],
+    "primary_city_state": "El Paso, TX",
+    "legacy": false,
+    "predicateToken": "1rg1hq",
+    "expertise": [
+      "Cavity",
+      "Cleaning",
+      "Crown",
+      "Dental Check-up",
+      "Extraction",
+      "Filling",
+      "Root Canal",
+      "Teeth Cleaning",
+      "Veneers"
+    ],
+    "slug": "1rg1hq/dennis-care",
+    "canonical": "/dentists/1rg1hq/dennis-care",
+    "lower_case_slug": "1rg1hq/dennis-care",
+    "_geoloc": [
+      {
+        "lat": "31.89529500",
+        "lng": "-106.43369900"
+      }
+    ],
+    "time_stamp": "2017/09/11 21:04:00",
+    "entity_type": "professional",
+    "search_specialties": [
+      "General Dentistry"
+    ],
+    "nearby_providers": [
+      {
+        "vpid": "1sf10p",
+        "display_name": "Dr. Miguel Martinez-Diaz",
+        "years_experience": "12",
+        "url": "/dentists/Dr_Miguel_Martinez_2",
+        "specialty": [
+          "Endodontics",
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "El Paso",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 1,
+        "objectID": "1sf10p_dentist_79924440409",
+        "distance": "0.01"
+      },
+      {
+        "vpid": "1rrqnd",
+        "display_name": "Dr. Ronald Care",
+        "years_experience": "47",
+        "url": "/dentists/Dr_Ronald_Care",
+        "specialty": [
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "El Paso",
+        "state": "TX",
+        "overall_rating": 3.2666666666667,
+        "number_of_ratings": 10,
+        "objectID": "1rrqnd_dentist_79924440409",
+        "distance": "0.01"
+      },
+      {
+        "vpid": "1wxymj",
+        "display_name": "Dr. Allyson Missura",
+        "years_experience": "5",
+        "url": "/dentists/Dr_Allyson_Sundby",
+        "specialty": [
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "El Paso",
+        "state": "TX",
+        "objectID": "1wxymj_dentist_79924440409",
+        "distance": "0.01"
+      }
+    ],
+    "total_nearby_providers": 3,
+    "total_hospitals": 0,
+    "total_languages": 0,
+    "total_locations": 1,
+    "total_expertise": 9,
+    "total_specialties": 1
+  },
+  {
+    "objectID": "1rdxm9_dentist",
+    "url": "/dentists/1rdxm9/lucy-dang",
+    "type": "dentist",
+    "display_type": "Dentist",
+    "vend_dates": [
+      "2017-09-01"
+    ],
+    "vpid": "1rdxm9",
+    "facility_vpid": "3hjpns",
+    "city_state": "Dallas, TX",
+    "company_name": "Dental Attraction Center",
+    "company_aka_names": "Dental Attraction Center",
+    "has_displayable_professional_companyname": "true",
+    "facility_slugs": "uchc_snpjh3-dental-attraction-center|vitals_3hjpns-dental-attraction-center-dallas",
+    "npi": "1265956809",
+    "first": "Lucy",
+    "last": "Dang",
+    "prefix": "Dr.",
+    "degrees": "DMD",
+    "professional_aka_names": "Lucy Dang",
+    "provider_type_codes": "DEN",
+    "specialties": [
+      "General Dentistry"
+    ],
+    "gender": "F",
+    "status": "active",
+    "suppress_review_write": false,
+    "yext_status": "available",
+    "created": "2017-08-29 19:31:15",
+    "modified": "2017-08-31 10:15:51",
+    "data_delivery_date": "2017-09-01",
+    "types": [
+      "dentist"
+    ],
+    "display_name": "Dr. Lucy Dang",
+    "also_known_as": [
+      "Lucy Dang"
+    ],
+    "degree": "DMD",
+    "locations": [
+      {
+        "address_id": "75287713383",
+        "name": "Dental Attraction Center",
+        "address1": "4727 Frankford Rd",
+        "city": "Dallas",
+        "state": "TX",
+        "state_name": "Texas",
+        "zip": "75287",
+        "phone": "9727330999",
+        "primary_location": true,
+        "address_accuracy": "EXACT",
+        "address_neighborhood": "North Central Dallas",
+        "facility_vpid": "3hjpns",
+        "display_company_name": true,
+        "usps_city": "Dallas",
+        "usps_state": "TX",
+        "_geoloc": {
+          "lat": "32.99931100",
+          "lng": "-96.82572900"
+        },
+        "geoloc": "32.99931100,-96.82572900",
+        "google_verified": true,
+        "google_city_state": "Dallas, TX",
+        "facility_slug": "3hjpns-dental-attraction-center-dallas"
+      }
+    ],
+    "primary_specialty": "General Dentistry",
+    "ratings_per_star": {
+      "1": {
+        "total": 0,
+        "percentage": 0
+      },
+      "2": {
+        "total": 0,
+        "percentage": 0
+      },
+      "3": {
+        "total": 0,
+        "percentage": 0
+      },
+      "4": {
+        "total": 0,
+        "percentage": 0
+      },
+      "5": {
+        "total": 0,
+        "percentage": 0
+      }
+    },
+    "city_states": [
+      "Dallas, TX"
+    ],
+    "verified_city_states": [
+      "Dallas, TX"
+    ],
+    "primary_city_state": "Dallas, TX",
+    "legacy": false,
+    "predicateToken": "1rdxm9",
+    "expertise": [
+      "Cavity",
+      "Cleaning",
+      "Crown",
+      "Dental Check-up",
+      "Extraction",
+      "Filling",
+      "Root Canal",
+      "Teeth Cleaning",
+      "Veneers"
+    ],
+    "slug": "1rdxm9/lucy-dang",
+    "canonical": "/dentists/1rdxm9/lucy-dang",
+    "lower_case_slug": "1rdxm9/lucy-dang",
+    "_geoloc": [
+      {
+        "lat": "32.99931100",
+        "lng": "-96.82572900"
+      }
+    ],
+    "time_stamp": "2017/09/11 21:04:26",
+    "entity_type": "professional",
+    "search_specialties": [
+      "General Dentistry"
+    ],
+    "nearby_providers": [
+      {
+        "vpid": "1t7517",
+        "display_name": "Dr. Saeed Rouhani-Nasab",
+        "years_experience": "29",
+        "url": "/dentists/Dr_Saeed_Rouhani",
+        "specialty": [
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "Dallas",
+        "state": "TX",
+        "overall_rating": 4,
+        "number_of_ratings": 4,
+        "objectID": "1t7517_dentist_75287713383",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "1r1dc8",
+        "display_name": "Dr. Hedayat Anbar",
+        "years_experience": "31",
+        "url": "/dentists/Dr_Hedayat_Anbar",
+        "specialty": [
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "Dallas",
+        "state": "TX",
+        "objectID": "1r1dc8_dentist_75287685925",
+        "distance": "0.35"
+      },
+      {
+        "vpid": "1xg4f7",
+        "display_name": "Dr. Ronald Proctor",
+        "years_experience": "45",
+        "url": "/dentists/Dr_Ronald_L_Proctor",
+        "specialty": [
+          "General Dentistry"
+        ],
+        "type": "dentist",
+        "display_type": "Dentist",
+        "city": "Dallas",
+        "state": "TX",
+        "overall_rating": 3.6666666666667,
+        "number_of_ratings": 1,
+        "objectID": "1xg4f7_dentist_75287753344",
+        "distance": "0.52"
+      }
+    ],
+    "total_nearby_providers": 3,
+    "total_hospitals": 0,
+    "total_languages": 0,
+    "total_locations": 1,
+    "total_expertise": 9,
+    "total_specialties": 1
+  },
+  {
+    "objectID": "1zp7s8_doctor",
+    "url": "/doctors/1zp7s8/carolina-gomez-de-ziegler",
+    "type": "doctor",
+    "display_type": "Doctor",
+    "vend_dates": [
+      "2017-09-01"
+    ],
+    "vpid": "1zp7s8",
+    "facility_vpid": "3jz80s",
+    "city_state": "Weslaco, TX",
+    "company_name": "Knapp Medical Center",
+    "company_aka_names": "Knapp Medical Center",
+    "has_displayable_professional_companyname": "true",
+    "facility_slugs": "uchc_s08zj3-knapp-medical-center|vitals_3jz80s-knapp-medical-center-weslaco",
+    "npi": "1669993143",
+    "first": "Carolina",
+    "last": "Gomez De Ziegler",
+    "prefix": "Dr.",
+    "degrees": "MD",
+    "professional_aka_names": "Carolina Gomez De Ziegler",
+    "provider_type_codes": "MD",
+    "specialties": [
+      "Residency"
+    ],
+    "gender": "F",
+    "status": "active",
+    "suppress_review_write": false,
+    "yext_status": "available",
+    "created": "2017-08-29 19:31:15",
+    "modified": "2017-08-31 10:15:51",
+    "data_delivery_date": "2017-09-01",
+    "types": [
+      "doctor"
+    ],
+    "display_name": "Dr. Carolina Gomez De Ziegler",
+    "also_known_as": [
+      "Carolina Gomez De Ziegler"
+    ],
+    "degree": "MD",
+    "locations": [
+      {
+        "address_id": "78596664001",
+        "name": "Knapp Medical Center",
+        "address1": "1401 E 8th St",
+        "city": "Weslaco",
+        "state": "TX",
+        "state_name": "Texas",
+        "zip": "78596",
+        "phone": "9569688567",
+        "primary_location": true,
+        "address_accuracy": "EXACT",
+        "facility_vpid": "3jz80s",
+        "display_company_name": true,
+        "usps_city": "Weslaco",
+        "usps_state": "TX",
+        "_geoloc": {
+          "lat": "26.15270800",
+          "lng": "-97.97716000"
+        },
+        "geoloc": "26.15270800,-97.97716000",
+        "google_verified": true,
+        "google_city_state": "Weslaco, TX",
+        "facility_slug": "3jz80s-knapp-medical-center-weslaco"
+      }
+    ],
+    "primary_specialty": "Residency",
+    "ratings_per_star": {
+      "1": {
+        "total": 0,
+        "percentage": 0
+      },
+      "2": {
+        "total": 0,
+        "percentage": 0
+      },
+      "3": {
+        "total": 0,
+        "percentage": 0
+      },
+      "4": {
+        "total": 0,
+        "percentage": 0
+      },
+      "5": {
+        "total": 0,
+        "percentage": 0
+      }
+    },
+    "city_states": [
+      "Weslaco, TX"
+    ],
+    "verified_city_states": [
+      "Weslaco, TX"
+    ],
+    "primary_city_state": "Weslaco, TX",
+    "legacy": false,
+    "predicateToken": "1zp7s8",
+    "slug": "1zp7s8/carolina-gomez-de-ziegler",
+    "canonical": "/doctors/1zp7s8/carolina-gomez-de-ziegler",
+    "lower_case_slug": "1zp7s8/carolina-gomez-de-ziegler",
+    "_geoloc": [
+      {
+        "lat": "26.15270800",
+        "lng": "-97.97716000"
+      }
+    ],
+    "time_stamp": "2017/09/11 21:05:30",
+    "entity_type": "professional",
+    "search_specialties": [
+      "Residency"
+    ],
+    "nearby_providers": [
+      {
+        "vpid": "1pz4d8",
+        "display_name": "Dr. Isabel Reyna",
+        "years_experience": "5",
+        "url": "/doctors/Dr_Isabel_Reyna.html",
+        "specialty": [
+          "Family Medicine",
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Weslaco",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 1,
+        "objectID": "1pz4d8_doctor_78596664001",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "1nkmgt",
+        "display_name": "Dr. Patricia Coquillon",
+        "url": "/doctors/Dr_Patricia_Coquillon.html",
+        "specialty": [
+          "Emergency Medicine",
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Weslaco",
+        "state": "TX",
+        "overall_rating": 5,
+        "number_of_ratings": 3,
+        "objectID": "1nkmgt_doctor_78596664001",
+        "distance": "0.00"
+      },
+      {
+        "vpid": "1r4bhw",
+        "display_name": "Dr. Nicole Grigg Gutierrez",
+        "url": "/doctors/Dr_Nicole_Grigg_Gutierrez.html",
+        "specialty": [
+          "Internal Medicine",
+          "Residency"
+        ],
+        "type": "doctor",
+        "display_type": "Doctor",
+        "city": "Weslaco",
+        "state": "TX",
+        "objectID": "1r4bhw_doctor_78596664001",
+        "photo": "professionals/1934985/Dr_Nicole_Grigg_Gutierrez.jpg",
+        "distance": "0.00"
+      }
+    ],
+    "total_nearby_providers": 3,
+    "total_hospitals": 0,
+    "total_languages": 0,
+    "total_locations": 1,
+    "total_expertise": 0,
+    "total_specialties": 1
+  }
+]
